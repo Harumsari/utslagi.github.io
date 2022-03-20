@@ -1,0 +1,26 @@
+h1 {
+    font-size: 120px;
+    font-family: Arial;
+    color: salmon;
+    text-align: center;
+}
+
+p {
+    font-size: small;
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: peachpuff;
+}
+
+#Blog {
+    background-color: salmon;
+}
+
+section {
+    padding-top: 5rem;
+}
